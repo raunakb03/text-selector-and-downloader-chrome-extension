@@ -1,0 +1,30 @@
+body {
+  background: #f1f5f9;
+}
+
+.wrapper {
+  width: 300px;
+  text-align: center;
+}
+
+.download-text {
+  width: 200px;
+  outline: none;
+  border: none;
+  border-radius: 2px;
+  padding: 5px;
+  background: #facc15;
+  cursor: pointer;
+  margin-bottom: 2px;
+}
+
+.highlight-text {
+  width: 200px;
+  outline: none;
+  border: none;
+  border-radius: 2px;
+  padding: 5px;
+  background: #facc15;
+  cursor: pointer;
+  margin-bottom: 2px;
+}
